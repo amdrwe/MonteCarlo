@@ -10,3 +10,5 @@ The expression evaluator is a little kludgy, but it works well enough (although 
 I have found good results running the integration over about 100k to 200k iterations, with sharply decreasing returns after that, in addition to the amount of time that is required to do additional calculations.
 
 I wouldn't bother trying to run this on anything less powerful than the Due for fairly obvious reasons.
+
+I've included the libraries in this repo because they are not on Github; Entropy's homepage can be found at https://code.google.com/p/avr-hardware-random-number-generation/, and Stacklist can be found at http://playground.arduino.cc/Code/StackList.
